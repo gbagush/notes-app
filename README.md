@@ -7,7 +7,7 @@
 ![Note App Screenshot](/public/screenshot.png)
 
 <p align="center">
-  <a href="#">🌐 Live Demo</a> •
+  <a href="https://notes-app-xh77.vercel.app/">🌐 Live Demo</a> •
   <a href="#core-functionality">✨ Core Functionality</a> •
   <a href="#built-with">💻 Built With</a> •
   <a href="#getting-started">🚀 Getting Started</a>
